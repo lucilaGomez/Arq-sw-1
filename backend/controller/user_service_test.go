@@ -1,4 +1,4 @@
-package service
+package controller
 
 import (
 	. "backend/data_access"

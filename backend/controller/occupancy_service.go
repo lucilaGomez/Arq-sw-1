@@ -1,4 +1,4 @@
-package service
+package cotroller
 
 import (
 	. "backend/data_access"
